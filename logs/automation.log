@@ -1,0 +1,47 @@
+2024-12-30 13:21:21 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\abc\eclipse-workspace\Newproject\testng.xml
+
+2024-12-30 13:29:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-30 13:29:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2024-12-30 13:29:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-12-30 13:29:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-30 13:29:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-30 13:29:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-30 13:29:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-30 13:29:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-30 13:29:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 14 ms.
+2024-12-30 13:29:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 19 ms.
+2024-12-30 13:29:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-30 13:29:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-30 13:29:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-30 13:29:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-30 13:29:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-30 13:29:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-30 13:29:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-30 13:29:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-30 13:29:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-30 13:29:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-30 13:29:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-30 13:29:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-30 13:29:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-30 13:29:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-30 13:29:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-30 13:29:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-12-30 13:29:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-30 13:29:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-30 13:29:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-12-30 13:29:59 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-12-30 13:29:59 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\abc\AppData\Local\Temp\testng-eclipse-1515608787\testng-customsuite.xml
+
+2024-12-30 13:29:59 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 14 ms.
+2024-12-30 13:30:21 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1965539b: 1 ms
+2024-12-30 13:30:21 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@7aad3f7d: 166 ms
+2024-12-30 13:30:21 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@31ee96f4: 429 ms
+2024-12-30 13:30:22 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@46d8f407: 56 ms
+2024-12-30 13:30:22 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@185f7840: 25 ms
+2024-12-30 13:30:22 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5b2f8ab6: 21 ms
+2024-12-30 13:30:22 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@49a71302: 27 ms
+2024-12-30 20:36:41 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\abc\eclipse-workspace\Newproject\testng.xml
+
